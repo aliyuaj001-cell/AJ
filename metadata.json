@@ -1,0 +1,6 @@
+{
+  "name": "AJ Chart",
+  "description": "High-performance real-time messaging, group chat, encrypted media sharing, and social feed platform with horizontally sharded architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
